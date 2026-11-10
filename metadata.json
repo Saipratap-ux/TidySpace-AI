@@ -1,0 +1,6 @@
+{
+  "name": "TidySpace AI",
+  "description": "Upload photos of any room to get AI-powered spatial decluttering roadmaps, interactive 3-pile sorting guides, zone breakdown overlays, and personalized organization solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
